@@ -2,9 +2,9 @@
 
 COMPANY: CODETECH IT SOLUTIONS
 
-NAME: PALAKURTHY VAMSHI
+NAME: POLISHETTY UDAY
 
-INTERN ID: CODF292
+INTERN ID: CODF47
 
 DOMAIN: FRONT END DEVELOPMENT
 
@@ -46,6 +46,11 @@ Clone this repository to your local machine.
 Run pip install -r requirements.txt to install all dependencies.
 
 Run python app.py to start the application.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/aa69b0d2-0457-4f05-839f-48243e76977c)
+
 
 Open your browser and go to http://localhost:7860 to see the app in action.
 
