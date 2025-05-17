@@ -1,54 +1,57 @@
-# 🧠 Text Summarization Tool
+# TEXT-SUMMARIZATION-TOOL
 
-This project is a **Text Summarization Web App** built using **Hugging Face Transformers**, **Google's PEGASUS model** and **Gradio** for the frontend interface.
+COMPANY: CODETECH IT SOLUTIONS
 
-## ✨ Features
+NAME: PALAKURTHY VAMSHI
 
-- Summarizes long texts using the powerful `google/pegasus-cnn_dailymail` model
-- Handles large inputs by automatically chunking text
-- Displays a real-time **word count**
-- Copy the summary with one click
-- Download summary as a `.txt` file
-- Clean and modern UI using Gradio Blocks
+INTERN ID: CODF292
 
-## 🚀 How to Run
+DOMAIN: FRONT END DEVELOPMENT
 
-1. Install dependencies:
-   ```bash
-   pip install transformers torch gradio
-   ```
+DURATION: 4-WEEKS
 
-2. Run the app:
-   ```bash
-   python app.py
-   ```
+MENTOR:NEELA SANTOSH
 
-3. The app will launch in your browser at `http://127.0.0.1:7860/`.
+# DESCRIPTION
 
-## 🛠 Technologies Used
+TextSummarization Tool (Python + Gradio)
+TextSummarization is a modern web application built with Python and Gradio designed to simplify and enhance the process of summarizing large texts into concise summaries. This app aims to help users quickly extract the essential points from lengthy articles, research papers, news, or any type of content they wish to shorten.
 
-- Python
-- Gradio
-- Hugging Face Transformers
-- PEGASUS (`google/pegasus-cnn_dailymail`)
-- PyTorch
+The application utilizes a clean and intuitive user interface, offering an easy-to-use experience with the following features:
 
-## 📷 UI Preview
+Real-time Text Input: Users can paste or type large texts directly into the input field.
 
-> Paste your text in the input box and get clear, concise bullet point summaries.
+Summarization: Upon submitting the text, the application processes it and generates a summary by extracting the most relevant and critical information.
 
-## 📌 Example Use Cases
+Results Display: The summarized content is displayed instantly, allowing users to copy or further edit the summarized text.
 
-- Summarizing articles, research papers, or reports
-- Extracting key points from meeting transcripts
-- Assisting in content creation and note-taking
+Responsive Design: The app is designed to be mobile and desktop-friendly, ensuring a seamless experience across different devices.
 
-## 🙌 Credits
+Navigation: The app includes a user-friendly interface for easy interaction with summarization features.
 
-- Model: [PEGASUS by Google](https://huggingface.co/google/pegasus-cnn_dailymail)
-- Interface: [Gradio](https://gradio.app)
-- Developer: Uday
+Built with the powerful Python ecosystem, the application ensures fast processing and an interactive experience. Gradio provides an easy-to-use UI framework, making the development process smooth and the user interface responsive.
 
----
+Key Technologies Used:
+Python: For backend logic and AI model integration.
 
-> 🔗 Feel free to fork this repo, improve it, and use it in your projects!
+Gradio: For building the interactive web interface.
+
+Hugging Face Transformers (PEGASUS): For advanced text summarization.
+
+Torch: For efficient tensor computation supporting the model.
+
+How to Run:
+Clone this repository to your local machine.
+
+Run pip install -r requirements.txt to install all dependencies.
+
+Run python app.py to start the application.
+
+Open your browser and go to http://localhost:7860 to see the app in action.
+
+Future Enhancements:
+Integration of AI or machine learning models for more advanced text summarization techniques.
+
+Support for multiple languages and various text formats (PDF, Word).
+
+A backend service to allow users to save or export their summaries.
