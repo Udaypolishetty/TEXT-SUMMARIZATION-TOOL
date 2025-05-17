@@ -1,6 +1,6 @@
 # 🧠 Text Summarization Tool
 
-This project is a **Text Summarization Web App** built using **Hugging Face Transformers**, **Google's PEGASUS model**, and **Gradio** for the frontend interface.
+This project is a **Text Summarization Web App** built using **Hugging Face Transformers**, **Google's PEGASUS model** and **Gradio** for the frontend interface.
 
 ## ✨ Features
 
