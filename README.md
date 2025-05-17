@@ -47,7 +47,7 @@ Run pip install -r requirements.txt to install all dependencies.
 
 Run python app.py to start the application.
 
-# OUTPUT
+#  SAMPLE OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/aa69b0d2-0457-4f05-839f-48243e76977c)
 
